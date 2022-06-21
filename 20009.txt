@@ -1,0 +1,15 @@
+Instructions: 
+•	Write the commands along with description on the answer sheet provided.
+•	Write the code on the answer sheet.
+
+1.	Using Selenium IDE, Create a project named "CTISA" to run automation test on “https://www.javatpoint.com”. 
+	Create a test named “IDETest”. 
+2.	Use Selenese commands to Open “https://www.javatpoint.com”. Increase the window size if required. 
+	Click on “HTML” link. 
+	Click on “HTML Table”. Search for “PHP” in the searchbox.							(6)
+3.	Create a maven project named “CTSEE”.  Add required dependencies. 
+	Create a class named “Calculator”. In this class write a parameterized method to add two numbers. 
+	Write a unit test for the same. And generate javadoc.								(5)
+4.	Save your progress in a local repository.									(2)
+5.	Create a new branch named your roll number. eg. 19000.
+6.	Push the newly create branch to the remote repo.
