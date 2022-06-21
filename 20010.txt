@@ -1,0 +1,11 @@
+Instructions: 
+•	Write the commands along with description on the answer sheet provided.
+•	Write the code on the answer sheet.
+
+1.	Show how a conflict occurs in a git repository. Demonstrate how to resolve the conflict. Show it in a local repo.		(7)
+2.	Use recently created directory as a workspace for eclipse.
+3.	Create a maven project named “CTSEE”.  Add required dependencies. Create a class named “Calculator”. 
+	In this class write a parameterized method to add two numbers. Write a unit test for the same. Generate javadoc. 		(4)
+4.	Save your progress in a local repository.											(2)
+5.	Create a new branch named your roll number. eg. 19000.
+6.	Push the newly create branch to the remote repo.
